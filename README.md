@@ -1,8 +1,8 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href=[discord]>
+<a href=https://discord.gg/bGeG2Q3TT8>
   <img align="left" alt="Tuan's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href=[linkedin]>
+<a href=www.linkedin.com/in/tuanngo1001>
   <img align="left" alt="Tuan Ngo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
@@ -10,13 +10,15 @@
 
 <br />
 
-Hi, I'm **_Tuan_**, currently a fourth-year computer science student at University of Manitoba, Canada. I have big interest in web and mobile app development
+Hi, I'm **_Tuan_**, currently a fourth-year computer science student at University of Manitoba, Canada. I have big interest in **web development** and **mobile app development**.
 
-- 🔭 I’m currently working on a cross-platform mobile application using Flutter
-- 🌱 I’m currently learning mobile app development
-- 😄 Ask me about anything, I am happy to help
+- 🔭 I’m currently working on a cross-platform mobile application using _Flutter_ and a website using _React_
+- 🌱 I’m currently learning mobile app development.
+- 😄 Ask me about anything, I am happy to help!
 - ⚡ Fun fact: coding at night boosts my productivity to the moon 🚀🌙
 - 📝 [Resume][website]
+
+Join me on <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"></code> [_Tuan's Space_][discord] Discord channel and connect me on my [LinkedIn][Linkedin]
 
 **Languages and Tools:**  
 
