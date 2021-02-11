@@ -12,7 +12,7 @@ Hi, I'm **_Tuan_**, currently a fourth-year computer science student at Universi
 - ⚡ Fun fact: coding at night boosts my productivity to the moon 🚀🌙
 - 📝 [Resume][website]
 
-Join me on <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"></code> [_Tuan's Space_][discord] Discord channel and connect me on my [LinkedIn][Linkedin]
+Join me on <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"></code> [_Tuan's Space_][discord] Discord channel and connect me on [Linkedin][linkedin]
 
 **Languages and Tools:**  
 
@@ -30,6 +30,6 @@ Join me on <code><img height="20" src="https://raw.githubusercontent.com/github/
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tuanngo1001&show_icons=true&theme=gotham" alt="tuanngo1001" />
 
 [website]: https://tuanngo1001.github.io
-[linkedin]: www.linkedin.com/in/tuanngo1001
+[linkedin]: https://www.linkedin.com/in/tuanngo1001
 [github]: https://github.com/tuanngo1001
 [discord]: https://discord.gg/bGeG2Q3TT8
