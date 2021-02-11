@@ -1,10 +1,4 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href=https://discord.gg/bGeG2Q3TT8>
-  <img align="left" alt="Tuan's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href=www.linkedin.com/in/tuanngo1001>
-  <img align="left" alt="Tuan Ngo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=tuanngo1001.tuanngo1001)
 
@@ -36,7 +30,6 @@ Join me on <code><img height="20" src="https://raw.githubusercontent.com/github/
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tuanngo1001&show_icons=true&theme=gotham" alt="tuanngo1001" />
 
 [website]: https://tuanngo1001.github.io
-[instagram]: https://www.instagram.com/__tuanngo__/
 [linkedin]: www.linkedin.com/in/tuanngo1001
 [github]: https://github.com/tuanngo1001
 [discord]: https://discord.gg/bGeG2Q3TT8
