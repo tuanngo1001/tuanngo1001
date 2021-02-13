@@ -2,6 +2,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=tuanngo1001.tuanngo1001)
 
+👉 Check out my [react portfolio][website]! 👈
 <br />
 
 Hi, I'm **_Tuan_**, currently a fourth-year computer science student at University of Manitoba, Canada. I have big interest in **web development** and **mobile app development**.
@@ -29,7 +30,7 @@ Join me on <code><img height="20" src="https://raw.githubusercontent.com/github/
 **My Github Stats:**
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tuanngo1001&show_icons=true&theme=gotham" alt="tuanngo1001" />
 
-[website]: https://tuanngo1001.github.io
+[website]: https://tuanngo1001.github.io/tuanngo-portfolio
 [linkedin]: https://www.linkedin.com/in/tuanngo1001
 [github]: https://github.com/tuanngo1001
 [discord]: https://discord.gg/bGeG2Q3TT8
