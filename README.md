@@ -5,15 +5,15 @@
 👉 Check out my [react portfolio][website]! 👈
 <br />
 
-Hi, I'm **_Tuan_**, currently a fourth-year computer science student at University of Manitoba, Canada. I have big interest in **web development** and **mobile app development**.
+Hi, I'm **_Tuan_**, currently a **Full Stack Developer** in Canada. I have a big interest in **web development** and **mobile app development**.
 
-- 🔭 I’m currently working on a cross-platform mobile application using _Flutter_ and a website using _React_
-- 🌱 I’m currently learning mobile app development.
+- 🔭 I worked on a cross-platform mobile application using _Flutter_ and a website using _React_
+- 🌱 I’m currently learning Machine Learning and AI Automation.
 - 😄 Ask me about anything, I am happy to help!
 - ⚡ Fun fact: coding at night boosts my productivity to the moon 🚀🌙
 - 📝 [Resume][website]
 
-Join me on <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"></code> [_Tuan's Space_][discord] Discord channel and connect me on [Linkedin][linkedin]
+Connect me on [LinkedIn][linkedin]
 
 **Languages and Tools:**  
 
@@ -33,4 +33,3 @@ Join me on <code><img height="20" src="https://raw.githubusercontent.com/github/
 [website]: https://tuanngo1001.github.io/tuanngo-portfolio
 [linkedin]: https://www.linkedin.com/in/tuanngo1001
 [github]: https://github.com/tuanngo1001
-[discord]: https://discord.gg/bGeG2Q3TT8
